@@ -1,0 +1,12 @@
+appetizers
+	categoryId appetizers
+	image "https://www.pizzahut.co.uk/restaurants/r/SysSiteAssets/rebrand/food/foodhero/food-hero-jalapenopoppers-2.png/"
+	name appetizers
+beverages
+	categoryId beverages
+	image "https://www.pizzahut.co.uk/restaurants/r/SysSiteAssets/food/menu/drinks/27-comp-cocktails.jpg/"
+	name beverages
+pizza
+	categoryId pizza
+	image "http://www.nohopizza.com/images/pizza.jpeg"hero-jalapenopoppers-2.png/"
+	name pizza

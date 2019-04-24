@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--#660000-->
+    <color name="colorPrimary">#101010</color>
+    <color name="colorPrimaryDark">#101010</color>
+    <color name="colorAccent">#101010</color>
+
+    <color name="btnSignUp">#F44336</color>
+    <color name="btnSignActive">#F44336</color>
+
+    <color name="overlayBackground">#7f333639</color>
+    <color name="overlayActionBar">#0e0d0e</color>
+
+    <color name="chatbot">#643843d3</color>
+    <color name="chatuser">#64e0e2ff</color>
+</resources>
